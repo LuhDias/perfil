@@ -1,0 +1,90 @@
+body{ 
+    background-color: rgb(36, 36, 36);
+}
+
+img{ 
+    width: 200px;
+    height: 200px;
+  border-radius: 100%;
+  margin-top: 30%;  
+  margin: 4%;
+
+
+}
+
+
+#linha{
+    width: 400px;
+    border-bottom: 1px solid #f6efef;
+    margin: 23%;
+    margin-top: -17%;
+    position:  absolute;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+#linha2{
+
+    width: 400px;
+    border-bottom: 1px solid #f6efef;
+    margin: 23%;
+    margin-top: -10%;
+    position:  absolute;
+    color: #f6efef;
+    font-size: xx-large;
+   font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+#linha3{
+
+    width: 400px;
+    border-bottom: 1px solid #f6efef;
+    margin: 19%;
+    margin-top: -3%;
+    position:  absolute;
+    color: #f6efef;
+    font-size: xx-large;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+#texto{
+color: #f6efef;
+font-family: 'Courier New', Courier, monospace;
+position: absolute;
+margin-top: 20%;
+margin: 2%;
+font-size: large;
+
+}
+
+#texto2{
+
+  
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    margin-top: 23%;
+    margin-left: 70%;
+    color: aliceblue;
+
+
+
+}
+
+
+
+
+#insta{
+    
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 70%;
+    width: 50px;
+    height: 50px;
+
+
+}
